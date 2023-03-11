@@ -10,8 +10,9 @@
            
            3.Personal Growth
            
- *The Year Up Program provides opportunities for participants to achieve a range of accomplishments, 
+ *The Year Up Program provides opportunities for participants to achieve a range of accomplishments:*
  
+
             - Developing new skill
             
             - Completing a meaningful internship
