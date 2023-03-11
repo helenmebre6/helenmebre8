@@ -1,16 +1,26 @@
-### Hi there 👋
+# Helen Meles 
+## I am a current google project management student in the year up program.
 
-<!--
-**helenmebre6/helenmebre6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I have completed the Google Project Management Certificate Program, where I gained an immersive understanding of the best practices and essential skills required to succeed in a project management role. I am now eager to embark on the next stage of my career journey and apply my newfound knowledge and expertise to drive successful project outcomes.*
+* In my Year UP program journey I got a lot of potential benefits:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           1. Career Development
+           
+           2.Professional Networking
+           
+           3.Personal Growth
+           
+ *The Year Up Program provides opportunities for participants to achieve a range of accomplishments, 
+ 
+            - Developing new skill
+            
+            - Completing a meaningful internship
+            
+            - Earning college credit
+           
+ * [linkedin](https://www.linkedin.com/in/helen-meles-957a74262)
+ 
+ 
+ * My favourite quote is:
+ 
+ ![alt text](image.jpg)
