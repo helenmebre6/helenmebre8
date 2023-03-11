@@ -1,3 +1,5 @@
+theme: minima 
+
 # Helen Meles 
 ## I am a current google project management student in the year up program.
 
