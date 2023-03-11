@@ -23,7 +23,4 @@
  
  * My favourite quote is:
  
- Metal Poster Displate "Faith Over Fear".jpg
- 
- ![faith over fear](Metal Poster Displate "Faith Over Fear".jpg)
- 
+ ![image](https://user-images.githubusercontent.com/127349077/224512648-164b13ae-7fe7-4c43-a6f2-a5f1c262939f.jpeg)
