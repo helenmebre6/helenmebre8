@@ -23,4 +23,4 @@
  
  * My favourite quote is:
  
- ![screenshot](Screenshot 2023-03-11 at 12.37.27 PM.png)
+![alt text](image.jpg)
